@@ -53,5 +53,6 @@ class LetterAnalysis
 		letterAnalysis(input);
 		System.out.println("The length of the string is: " + input.length());
 		/* KT: test commit */
+		/* HL: test commit */
 	}
 }
