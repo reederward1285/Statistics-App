@@ -1,0 +1,9 @@
+C:\Repos\Statistics App\Statistics App\Statistics App\bin\Debug\Statistics App.exe.config
+C:\Repos\Statistics App\Statistics App\Statistics App\bin\Debug\Statistics App.exe
+C:\Repos\Statistics App\Statistics App\Statistics App\bin\Debug\Statistics App.pdb
+C:\Repos\Statistics App\Statistics App\Statistics App\obj\Debug\Statistics App.csprojResolveAssemblyReference.cache
+C:\Repos\Statistics App\Statistics App\Statistics App\obj\Debug\Statistics_App.Form1.resources
+C:\Repos\Statistics App\Statistics App\Statistics App\obj\Debug\Statistics_App.Properties.Resources.resources
+C:\Repos\Statistics App\Statistics App\Statistics App\obj\Debug\Statistics App.csproj.GenerateResource.Cache
+C:\Repos\Statistics App\Statistics App\Statistics App\obj\Debug\Statistics App.exe
+C:\Repos\Statistics App\Statistics App\Statistics App\obj\Debug\Statistics App.pdb
